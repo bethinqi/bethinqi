@@ -1,43 +1,53 @@
-# Hi, I'm Beth 👋
+# Hi, I’m Beth
 
-I’m a web developer with a strong foundation in HTML and CSS, and a focus on building interfaces that are clear, reliable, and maintainable.
+I am a web developer working with HTML, CSS, and modern technologies such as React and Next.js.
 
-I work with modern technologies such as React and Next.js, but I believe that good development always begins with solid fundamentals. My approach is centred on structure, simplicity, and long-term sustainability.
+Most of my work happens quietly.
+
+In code, where structure matters.
+Where small decisions shape how something is understood.
+Where clarity, more than complexity, defines the result.
+
+I believe good interfaces should feel natural to use.
+Clear. Reliable. Considered.
+
+And I believe accessibility is part of that responsibility —
+not an addition, but a foundation.
 
 ---
 
-## 🧩 What I focus on
+## What I focus on
 
-- Building clean, semantic, and accessible user interfaces  
-- Writing maintainable and well-structured code  
+- Building clean, semantic, and accessible interfaces  
+- Writing code that is structured, readable, and maintainable  
 - Developing with React and Next.js in modern environments  
-- Ensuring usability across devices and assistive technologies  
+- Creating experiences that work for everyone  
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
-- **Languages:** HTML, CSS, JavaScript (ES6+)  
-- **Frameworks & Libraries:** React, Next.js  
-- **Tools & Workflow:** Git, GitHub, npm/yarn  
-- **Focus areas:** Accessibility (a11y), responsive design, performance  
+- HTML, CSS, JavaScript (ES6+)  
+- React, Next.js  
+- Git, GitHub, npm / yarn  
 
 ---
 
-## 🧠 Development approach
+## Development approach
 
 I value clarity over complexity.
 
-I aim to write code that is easy to understand, easy to maintain, and built with intention. Accessibility is a key part of my work — not as an afterthought, but as a core responsibility.
+Code should not only work —
+it should be understood.
+
+It should be easy to return to,
+easy to improve,
+and built with intention from the start.
 
 ---
 
-## 📌 Current direction
+## Current direction
 
-Continuing to deepen my expertise in front-end architecture, accessibility, and scalable Next.js applications.
+Continuing to deepen my work in front-end architecture, accessibility, and scalable applications.
 
----
-
-## 📫 Connect
-
-- GitHub: https://github.com/bethinqi
+Learning, refining, and building — one piece at a time.
